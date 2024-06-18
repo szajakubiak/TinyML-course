@@ -6,6 +6,6 @@ To run TensorFlow you need Linux OS. I recommend using Ubuntu or Debian. If you 
 
 ### Install required tools
 ``` bash
-sudo apt install python3 python3-pip git
+sudo apt install python3 python3-pip python3-venv git
 ```
 
