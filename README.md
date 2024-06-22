@@ -31,3 +31,6 @@ pip install -r requirements.txt
 jupyter lab --no-browser
 ```
 You can skip *--no-browser* if you are using PC with Linux installed as a main OS. In such case web browser will be opened with Jupyter Lab tab. If you are on a virtual Linux machine it's better to start web browser on your main system (Windows in my case) and paste in the adress bar link which you will get in the terminal window starting with *localhost:8888/lab* or *127.0.0.1:8888/lab*. Remember to copy the full link with the access token.
+
+## Links
+[TF-TRT Warning: Could not find TensorRT](https://github.com/tensorflow/tensorflow/issues/61468)
